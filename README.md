@@ -40,28 +40,10 @@ The goal of this task was to clean and preprocess a raw dataset by addressing is
 
 ---
 
-## ❓ Interview Questions Covered
-1. What are missing values and how do you handle them?
-2. Difference between `dropna()` and `fillna()` in Pandas?
-3. How do you treat duplicate records?
-4. What is outlier treatment and why is it important?
-5. How do you handle inconsistent data formats (e.g., date/time)?
-6. What is standardization in data preprocessing?
-7. What are common challenges in cleaning data?
-8. How can you check data quality?
-
----
-
 ## ✅ Outcome
 - A cleaned, structured version of the Netflix dataset ready for analysis or visualization.
 - Strengthened understanding of real-world data preprocessing using Pandas.
 - Prepared for common data cleaning interview questions.
-
----
-
-## 📌 Notes
-- No paid tools or external libraries were used.
-- All cleaning decisions were documented and based on general best practices.
 
 ---
 
